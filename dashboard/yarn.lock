@@ -1766,10 +1766,10 @@
   resolved "https://registry.yarnpkg.com/@types/q/-/q-1.5.4.tgz#15925414e0ad2cd765bfef58842f7e26a7accb24"
   integrity sha512-1HcDas8SEj4z1Wc696tH56G8OlRaH/sqZOynNNB+HF0WOeXPaxTtbYzJY2oEfiUxjSKjhCKr+MvR7dCHcEelug==
 
-"@yaireo/tagify@^4.1.1":
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/@yaireo/tagify/-/tagify-4.1.1.tgz#1bd8c7354a661ebee6da5f1a811fe0c8b4487745"
-  integrity sha512-sHR+/ZPg6sLPAkLiwcO65uGgNV9RfKkt4rR9hp69bsNbFfQjRArMr/fYLonNH0GdxYXrlhIh62GzRRrXEMNh/A==
+"@yaireo/tagify@^4.9.8":
+  version "4.9.8"
+  resolved "https://registry.yarnpkg.com/@yaireo/tagify/-/tagify-4.9.8.tgz#67082ecca81fbbec4d75bb95581280f27af22fba"
+  integrity sha512-JqRTN4vb5tx06PJIRIOAlriO/B6u+a3jD/VBb5x6E1MOlC4wrMfaLHmNnrMpiZCHMXox7pVmrtNuyBe4YReJ4w==
 
 abab@^2.0.0:
   version "2.0.3"
